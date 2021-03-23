@@ -1,3 +1,2 @@
-# TradingCardGameShop
-
-## Aplicativo destinado a realizar compra e venda de cartas e demais equipamentos de card game e afins
+## Trading Card Game Shopping
+<p align="center">Aplicativo dedicado a comercialização de cartas e demais mercadorias afins ao card game</p>
