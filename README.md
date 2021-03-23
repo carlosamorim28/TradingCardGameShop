@@ -26,6 +26,7 @@
 - [x] Tratamento de erros em login e cadastro
 - [x] Avalição do comprador e vendedor com teclado numérico
 - [x] Atualização da lista de produtos em tempo real
+- [ ] Atualização da avaliação em tempo real
 - [ ] Avalição do comprador e vendedor com estrelinhas
 - [ ] imprementação de interface de pagamentos
 - [ ] Integração com API de pagamentos dentro do aplicativo
