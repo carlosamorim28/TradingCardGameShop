@@ -13,4 +13,8 @@
  <a href="#autor">Autor</a>
 </p>
 
+<h4 align="center"> 
+	🚧  Atualização da avaliação em tempo real 🚧 Em construção...  🚧
+</h4>
+
 
