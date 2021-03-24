@@ -34,9 +34,7 @@
 
 ### Demonstração
 
-<h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/login.gif" />
-</h1>
 
 
 ### Pré-requisitos
