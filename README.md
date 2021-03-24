@@ -34,8 +34,10 @@
 
 ### Demonstração
 
-<h1>Login<\h1>
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/login.gif" />
+Login
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/login.png" />
+</h1>
 
 
 ### Pré-requisitos
