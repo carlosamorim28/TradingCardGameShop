@@ -35,8 +35,9 @@
 ### Demonstração
 
 Login
+
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/login.png" />
+  <img title="#TelaLogin" src="./assets/login.gif" />
 </h1>
 
 
