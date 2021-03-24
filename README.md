@@ -52,6 +52,13 @@ Nesta Tela, digitando um login válido, previamente cadastrado, e clicando em 'L
 
 Para realizar o cadastro, basta preencher os campos selecionados, o campo de email, e numero de canta e agencia bancária ainda não possuem validação e realmente são errais mas precisam ser preenchidos. O campo do email ao menos precisa conter o '@' para caracterizar um email, e qualquer erro ou problema no registro será informado ao usuário por meio de um Toast ou de um Alert 
 
+### Cadastro de produto e atualização da tela principal
+<h1 align="center">
+  <img title="#TelaLogin" src="./assets/cadastroProdutoAtualizacaoTela.gif />
+</h1>
+			       
+ A lista de produtos sendo 'vendidos' atualiza contante conforme ocorram atualizações no banco de dados. Além disso para cadastrar um novo produto é necessário preencher todo o formulário e clicar no botão 'comprar'. Caso a compra seja realizada com sucesso, o usuário será retornado para a tela principal, e a lita estará adicionada 
+
 ### Pré-requisitos
 
 Antes de começar a utilizar a aplicação, é de suma importância que esteja de posse de um celular android, conectado a internet em tempo integral.Além disso é recomendado que o Sistema do dispositivo seja no mínimo um androis 8, pois foi a versão mais baixa na qual o aplicativo foi testado.
