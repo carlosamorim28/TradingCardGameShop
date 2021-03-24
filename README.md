@@ -36,3 +36,13 @@
 ### Pré-requisitos
 
 Antes de começar a utilizar a aplicação, é de suma importância que esteja de posse de um celular android, conectado a internet em tempo integral.Além disso é recomendado que o Sistema do dispositivo seja no mínimo um androis 8, pois foi a versão mais baixa na qual o aplicativo foi testado.
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React Native](https://reactnative.dev/)
+- [Firebase](https://firebase.google.com)
+- [React Navigation](https://reactnavigation.org)
