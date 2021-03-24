@@ -33,6 +33,12 @@
 
 
 ### Demonstração
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/login.gif" />
+</h1>
+
+
 ### Pré-requisitos
 
 Antes de começar a utilizar a aplicação, é de suma importância que esteja de posse de um celular android, conectado a internet em tempo integral.Além disso é recomendado que o Sistema do dispositivo seja no mínimo um androis 8, pois foi a versão mais baixa na qual o aplicativo foi testado.
