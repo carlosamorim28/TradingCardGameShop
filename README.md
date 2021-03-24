@@ -64,6 +64,14 @@ Para realizar o cadastro, basta preencher os campos selecionados, o campo de ema
   <img title="#TelaLogin" src="./assets/PerfilETelaDeCompra.gif" />
 </h1>
 
+Estando na tela principal, pode-se clicar em um dos produtos e abrirá a tela de compras, ao clicar em comprar o produto será comprado e adcionado ao seu perfil, mas cuidade, não é possível comprar um produto de você mesmo :) 
+
+Se atentando a barra de navegação inferior, é possível ver o icone do perfil, clicando nele se vagará para a tela de perfil. Nela serão exibidas as suas comprar e vendas dentro do app. E também será possível avaliar uma compra ou uma venda, como será mostrado na imagem a baixo
+
+<h1 align="center">
+  <img title="#TelaLogin" src="./assets/avaliarCompraVenda.gif" />
+</h1>
+
 ### Pré-requisitos
 
 Antes de começar a utilizar a aplicação, é de suma importância que esteja de posse de um celular android, conectado a internet em tempo integral.Além disso é recomendado que o Sistema do dispositivo seja no mínimo um androis 8, pois foi a versão mais baixa na qual o aplicativo foi testado.
