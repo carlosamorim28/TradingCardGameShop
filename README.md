@@ -57,7 +57,12 @@ Para realizar o cadastro, basta preencher os campos selecionados, o campo de ema
   <img title="#TelaLogin" src="./assets/cadastroProdutoAtualizacaoTela.gif" />
 </h1>
 			       
- A lista de produtos sendo 'vendidos' atualiza contante conforme ocorram atualizações no banco de dados. Além disso para cadastrar um novo produto é necessário preencher todo o formulário e clicar no botão 'comprar'. Caso a compra seja realizada com sucesso, o usuário será retornado para a tela principal, e a lita estará adicionada 
+ A lista de produtos sendo 'vendidos' atualiza contante conforme ocorram atualizações no banco de dados. Além disso,estando na tela da lista de produtos, para cadastrar um novo produto é necessário clicar no botão de '+' no canto superior direito da tela, ao clicar será direcionado para uma tela contendo um formulário de cadastro de produtos, ao preencher todo o formulário e clicar no botão 'cadastrar'. Caso a compra seja realizada com sucesso, o usuário será retornado para a tela principal, e a lita estará adicionada
+ 
+### Perfil e Tela de compra
+<h1 align="center">
+  <img title="#TelaLogin" src="./assets/PerfilETelaDeCompra.gif" />
+</h1>
 
 ### Pré-requisitos
 
