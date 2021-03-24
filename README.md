@@ -88,7 +88,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JavaScript]
 
 
-### Link de Dawnload
+### Link de Download
 https://drive.google.com/file/d/1p-D3EAGj7CzmhMC45ALJGefoOK27rM3J/view?usp=sharing
 
 ### Autor
