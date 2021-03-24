@@ -34,12 +34,23 @@
 
 ### Demonstração
 
-Login
+### Login
 
 <h1 align="center">
   <img title="#TelaLogin" src="./assets/login.gif" />
 </h1>
 
+Nesta Tela, digitando um login válido, previamente cadastrado, e clicando em 'Login' ocorrerá a verificação e se será direcionado para a tela principal do aplicativo. Qualquer erro que ocorra no login será informado ao usuário por um toast ou um alert
+
+
+
+### Cadastro
+
+<h1 align="center">
+  <img title="#TelaLogin" src="./assets/cadastro.gif" />
+</h1>
+
+Para realizar o cadastro, basta preencher os campos selecionados, o campo de email, e numero de canta e agencia bancária ainda não possuem validação e realmente são errais mas precisam ser preenchidos. O campo do email ao menos precisa conter o '@' para caracterizar um email, e qualquer erro ou problema no registro será informado ao usuário por meio de um Toast ou de um Alert 
 
 ### Pré-requisitos
 
