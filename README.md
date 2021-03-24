@@ -72,6 +72,15 @@ Se atentando a barra de navegação inferior, é possível ver o icone do perfil
   <img title="#TelaLogin" src="./assets/avaliarCompraVenda.gif" />
 </h1>
 
+
+### Filtros
+por fim, a fim de facilitar a busca pelo produto desejado, na parte superior da tela, a abaixo da tab bar existe uma série de filtros, que irão selecionar os produtos exibitos na lista, por categoria. A atualização da lista ocorre em tempo real.
+
+<h1 align="center">
+  <img title="#TelaLogin" src="./assets/filtros.gif" />
+</h1>
+
+
 ### Pré-requisitos
 
 Antes de começar a utilizar a aplicação, é de suma importância que esteja de posse de um celular android, conectado a internet em tempo integral.Além disso é recomendado que o Sistema do dispositivo seja no mínimo um androis 8, pois foi a versão mais baixa na qual o aplicativo foi testado.
